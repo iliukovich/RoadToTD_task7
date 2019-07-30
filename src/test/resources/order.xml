@@ -1,0 +1,16 @@
+<order>
+    <orderID>12345</orderID>
+    <shopperName>Ivan Ivanov</shopperName>
+    <shopperEmail>ivanov@example.com</shopperEmail>
+    <contents>
+        <productID>34</productID>
+        <productName>Super product</productName>
+        <quantity>1</quantity>
+    </contents>
+    <contents>
+        <productID>56</productID>
+        <productName>Wonderful product</productName>
+        <quantity>3</quantity>
+    </contents>
+    <orderCompleted>true</orderCompleted>
+</order>
